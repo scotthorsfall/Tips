@@ -9,10 +9,10 @@ Time spent: 2 hours spent in total
 ## User Stories
 
 The following **required** functionality is complete:
-[ * ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+DONE - User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
-[ * ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing. - I think this is working
+Opens when app launches - Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 - Nothing yet, hoping to add tip splitting this weekend!
@@ -27,7 +27,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Had some issues with the hardware keyboard in simulator not showing with the bill field set as the first responder 
 
 ## License
 
